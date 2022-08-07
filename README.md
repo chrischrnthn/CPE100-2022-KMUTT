@@ -4,3 +4,8 @@ Using as the resources for finding answers, old resoruces, old lectures, and mor
 ![image](https://user-images.githubusercontent.com/51368129/183284281-770115fb-6b53-4460-bb0a-85401b8c1f68.png)
 
 ## Subjects
+| Code   | Name                                              | Semester | Instructor                                                                                   | Teacher Assistant                                                                |
+| ------ | ------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| CPE100 | Computer Programming for Engineers                | 1/2017   |
+| CPE111 | Programming with Data Structures                  | 2/2017   |
+| CPE122 | Basic Circuits and Electronics                    | 2/2017   |
