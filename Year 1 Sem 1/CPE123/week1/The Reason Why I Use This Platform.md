@@ -10,8 +10,11 @@ In addition, this service let people can follow my activities for the changes of
 
 It has a little disadvantage, The font size and font color cannot be changed or adjusted. However, it can be **bold** and _Italic_ to make the information clear for the readers.
 
-```diff
-You can do a lot of things with git, and many of the rules of what you **should** do are not so much technical limitations but are about what works well when working together with other people. So git is a very powerful set of tools. - Linus Torvalds
+```
+You can do a lot of things with git, and many of the rules of what you **should** 
+do are not so much technical limitations 
+but are about what works well when working together with other people. 
+So git is a very powerful set of tools. - Linus Torvalds
 ```
 
 Charunthon Limseelo 65070503410
