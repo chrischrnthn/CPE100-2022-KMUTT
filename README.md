@@ -6,7 +6,7 @@ Using as the resources for finding answers, old resoruces, old lectures, and mor
 ## Subjects Year 1
 | Code   | Name                                              | Semester | Instructor                                                                                   | Teacher Assistant                                                                |
 | ------ | ------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| CPE100 | Computer Programming for Engineers                | 1/2022   | Ass.Prof.Natasha Dejdumrong                                                                  |
+| CPE100 | Computer Programming for Engineers                | 1/2022   | Ass.Prof.Natasha "Tum" Dejdumrong                                                            |
 | CPE101 | Engineering Exploration                           | 1/2022   | Aj.Jumpol "Jumo" Polwichai                                                                   |
 | CPE111 | Discrete Mathematics for Computer Engineers       | 1/2022   | Aj.Naruemon Wattanapongsakorn                                                                |
 | LNG221(5) | Academic English in International Context (Group 5)| 1/2022  | Aj.Ronnakrit "Ong" Rangsarittikul                                                         |
