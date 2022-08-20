@@ -4,8 +4,8 @@ Using as the resources for finding answers, old resoruces, old lectures, and mor
 ![image](https://user-images.githubusercontent.com/51368129/183284281-770115fb-6b53-4460-bb0a-85401b8c1f68.png)
 
 ## Subjects Year 1
-| Code   | Name                                              | Semester | Instructor                                                                                   | Teacher Assistant                                                                |
-| ------ | ------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Code   | Name                                              | Semester | Instructor                                                                                   |
+| ------ | ------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------- | 
 | CPE100 | Computer Programming for Engineers                | 1/2022   | Ass.Prof.Natasha "Tum" Dejdumrong                                                            |
 | CPE101 | Engineering Exploration                           | 1/2022   | Aj.Jumpol "Jumo" Polwichai                                                                   |
 | CPE111 | Discrete Mathematics for Computer Engineers       | 1/2022   | Aj.Naruemon Wattanapongsakorn                                                                |
